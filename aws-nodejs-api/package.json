@@ -1,0 +1,14 @@
+{
+  "name": "aws-nodejs-api",
+  "version": "0.0.1",
+  "description": "getting started nodejs lambda",
+  "main": "handler.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aws-sdk": "^2.827.0"
+  }
+}
